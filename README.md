@@ -3,4 +3,4 @@ Repo for the House Prices: Advanced Regression Techniques Kaggle competition - h
 
 Refer to https://github.com/kavish-p/kaggle-house-prices/blob/master/house-prices.ipynb for Jupyter Notebook documenting the data science approach used for this competition.
 
-My submission was ranked in the top 14th at the time of submission. (703/5280)
+My submission was ranked in the top 14% at the time of submission. (703/5280)
